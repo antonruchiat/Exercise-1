@@ -1,2 +1,2 @@
-# Exercise-1
-repo ini berisi tentang data diri
+# antonruchiat.github.io
+Talk is cheap. Show me the code.
